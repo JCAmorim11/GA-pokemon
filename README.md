@@ -19,7 +19,7 @@ Usar um GA, para selecionar um time de 6 pokémons capaz de passar por oito bata
 11. A batalha será considerada uma **derrota** caso todo o time tenha HP=0 OU caso nenhum pokemon do time tenha PP > 0 em algum move.
 12. Uma batalha será considerado uma **vitória** caso todo o time adversário — expresso na tabela abaixo — tenha  HP=0
 13. Caso o time adversário tenha todos os seus pokemon com PP=0 em todos os moves que eles utilizam, a batalha não será encerrada, apenas                    será terminada nas condições estabelecidas de vitória e derrota
-14. 14. Os unicos pokemons validos para o teste são os pokémons lançados até a terceira geração ([Números National Pokedex variando entre 1 à 386)](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number "Números National Pokedex variando entre 1 à 386)")
+14. 14. Os unicos pokemons validos para o teste são os pokémons lançados até a terceira geração ([Números National Pokedex variando entre 1 à 386](https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_National_Pok%C3%A9dex_number "Números National Pokedex variando entre 1 à 386"))
 15.
 16.
 17.
