@@ -1,6 +1,6 @@
 import pokepy
 from Pokemon import *
-from Moves import *
+
 
 
 def pegarTipo(pokemon):
@@ -14,8 +14,10 @@ client = pokepy.V2Client()
 mew = pokepy.V2Client().get_pokemon(151)
 
 pokemon = Pokemon(pokepy.V2Client().get_pokemon(73))
-moves = Moves(pokepy.V2Client().get_move(52))
-print(moves.__dict__)
+
+print(pokemon.pegarNome())
 
 
 
+get_name(mew)
+pegarTipo(mew)
