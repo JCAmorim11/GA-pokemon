@@ -1,5 +1,6 @@
-# GA-pokemon# Computação Evolucionária, a Genética Pokémon
+# Computação Evolucionária, a Genética Pokémon
 ***Este projeto trata-se de um trabalho de conclusão de curso para a FATEC-SP***
+
 *O tema deste trabalho é demonstrar a utilização de algoritmos geneticos com base no jogo eletrônico pokemon, tendo como base as versões [Ruby/Sapphire/Emerald ](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Ruby_and_Sapphire_Versions "Ruby/Sapphire/Emerald ") lançados no periodo de 2002 -- Ruby e Sapphire -- e 2005 -- Emerald -- que são conhecidas na comunidade como a _terceira geração_ da franquia de jogos*
 
 
@@ -10,6 +11,11 @@ Usar um algoritmo genético, para selecionar um time de 6 pokémons capaz de pas
 **(NÍVEL SERÁ IGNORADO, todos estarão no nível 100)**
 
 (**HABILIDADES SERÃO IGNORADAS,** será feito como se ela não existisse pois seu impacto não é tão relevante nas batalhas, ver para mais detalhes: [https://bulbapedia.bulbagarden.net/wiki/Ability](https://bulbapedia.bulbagarden.net/wiki/Ability)**)**
+
+
+
+
+
 
 ### Regras:
 -----
@@ -33,7 +39,20 @@ Usar um algoritmo genético, para selecionar um time de 6 pokémons capaz de pas
 
 
 
-
+|  | POKEMON 1| POKEMON  2 | POKEMON 3  | POKEMON 4  | POKEMON 5  | POKEMON 6   |
+| --- | --- | --- | --- | --- | --- | --- |
+| Batalha 1 |   GEODUDE Tipo:  [ROCK] [GROUND] Moves: Base stats: | NOSEPASS  Tipo: [ROCK] Moves: |  |  |  |  |
+| Batalha 2 | MACHOP Tipo  : [FIGHTHING] |  MAKUHITATipo : [FIGHTHING]  |  |  |  |  |
+| Batalha 3 | MAGNEMITE Tipo: [ELETRIC] [STEEL] |  VOLTORB Tipo:  [ELETRIC ] | MAGNETON Tipo:  [ELETRIC]  [STEEL] |  |  |  |
+| Batalha 4 | SLUGMA Tipo: [FIRE] | SLUGMATipo: [FIRE]  |  TORKOAL Tipo: [FIRE]   |  |  |  |
+| Batalha 5 | SLAKING Tipo: [NORMAL ] | VIGOROTH Tipo: [NORMAL] | SLAKINGTipo:  [NORMAL] |  |  |  |
+| Batalha 6 | SWELLOW Tipo:  [NORMAL] [FLYING]  | PELIPPER Tipo: [WATER] [FLYING] | SKARMORY Tipo:  [STEEL] [FLYING] | ALTARIA Tipo:  [DRAGON] [FLYING] | | |
+| Batalha 7 (Batalha em dupla)  | SOLROCK Tipo:  [ROCK] [PSYCHO] | LUNATONE Tipo: [ROCK] [PSYCHO]  |  |  |  |  |
+| Batalha 8 | LUVDISC Tipo:  [WATER] | WHISCASH Tipo: [WATER][GROUND] | SEALEO Tipo: [ICE][WATER] | SEAKING Tipo:  [WATER] | MILOTIC Tipo:  [WATER]        |  |
+| Batalha 9 | MIGHTYENA Tipo: [DARK]  | SHIFTRY Tipo:  [DARK] [GRASS] | CACTURNE Tipo: [DARK] [GRASS] | SHARPEDO Tipo:  [DARK][WATER] | ABSOL Tipo: [DARK]  |  |
+| Batalha 10 | DUSCLOPS Tipo:  [GHOST] | BANETTE Tipo:  [GHOST] | SABLEYE Tipo:  [GHOST] [DARK]  | BANETTE Tipo: [GHOST] | DUSCLOPS Tipo: [GHOST] |  |
+| Batalha 11 | SHELGON Tipo: [DRAGON] | ALTARIA Tipo:  [DRAGON] [FLYING] | FLYGON Tipo:  [GROUND][DRAGON] | FLYGON Tipo:  [GROUND] [DRAGON] | SALAMENCE Tipo:  [DRAGON] [FLYING]  |  |
+| Batalha 12 | SKARMORY Tipo: [STEEL] [FLYING] | CLAYDOL Tipo: [PSYCHIC] [GROUND] | AGGRON Tipo: [STEEL] [ROCK] | CRADILY Tipo: [STEEL] [ROCK]  | ARMALDO Tipo:  [ROCK] [BUG] | METAGROSS Tipo: [STEEL] [PSYCHIC] |
 
 
 
