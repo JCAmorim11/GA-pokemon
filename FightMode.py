@@ -14,3 +14,6 @@ battleTwelve = [227,344,306,346,348,376]
 
 ##VER VIDEOS WALKTHROUGH PARA SELECIONAR OS MOVES
 
+#TODO
+# - calculo de dano
+# -
